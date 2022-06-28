@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nick8\\Desktop\\C#\\hungry_ninja\\hungry_ninja.csproj",
+      "projectUniqueName": "C:\\Users\\nick8\\Desktop\\Coding_Dojo\\C#\\hungry_ninja\\hungry_ninja.csproj",
       "projectName": "hungry_ninja",
-      "projectPath": "C:\\Users\\nick8\\Desktop\\C#\\hungry_ninja\\hungry_ninja.csproj",
+      "projectPath": "C:\\Users\\nick8\\Desktop\\Coding_Dojo\\C#\\hungry_ninja\\hungry_ninja.csproj",
       "packagesPath": "C:\\Users\\nick8\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nick8\\Desktop\\C#\\hungry_ninja\\obj\\",
+      "outputPath": "C:\\Users\\nick8\\Desktop\\Coding_Dojo\\C#\\hungry_ninja\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nick8\\AppData\\Roaming\\NuGet\\NuGet.Config"
